@@ -10,3 +10,4 @@ the two six-sided dice and, if successful, the bot algorithms. All of which will
 so that the games screen displays the correct number of players and die rolls etc. I will test each addition to the app as 
 I go and have methods return a message if successful or unsuccessful. The remaining option would be a n error message sent 
 by the compiler. Lastly, I will go through many scenarios when all additions are implemented to ensure the app does not crash.
+
